@@ -1,0 +1,16 @@
+.mayor {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+.practice {
+    border: 3px solid rgb(189, 27, 54);
+    background-color: rgb(177, 177, 243);
+    color: rgb(23, 23, 23);
+    border-radius: 30px;
+    padding: 50px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
